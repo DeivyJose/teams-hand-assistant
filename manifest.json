@@ -1,0 +1,6 @@
+{
+  "manifest_version": 3,
+  "name": "Teams Hand Assistant",
+  "version": "0.0.1",
+  "description": "Extensión para Microsoft Teams Web que ayuda a controlar la posición del usuario en la cola de manos levantadas."
+}
